@@ -33,9 +33,9 @@ console.log(media0)
 
 //Pop para Arrays
 //Remove
- const nota01 = [10, 6, 8, 5.5, 10]
- nota01.pop()
- console.log(nota01)
+const nota01 = [10, 6, 8, 5.5, 10]
+nota01.pop()
+console.log(nota01)
 
- const media01 = (nota01[0] + nota01[1] + nota01[2] + nota01[3]) / nota01.length;
+const media01 = (nota01[0] + nota01[1] + nota01[2] + nota01[3]) / nota01.length;
 console.log(media01)

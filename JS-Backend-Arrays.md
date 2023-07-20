@@ -1,4 +1,4 @@
-JS-Backend-(Arrays)
+JS-Backend-Arrays
 
 uma forma resumida e mais simples de armazenas informações para uma conta por exemplo
 
